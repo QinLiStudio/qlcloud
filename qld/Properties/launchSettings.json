@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "qld": {
+      "commandName": "Project",
+      "commandLineArgs": "qld install chrome"
+    }
+  }
+}
